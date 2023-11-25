@@ -14,6 +14,14 @@ The script includes several key stages:
 
 ## Getting Started
 
+### Dataset
+
+Dataset can be accessed from Kaggle:
+https://www.kaggle.com/datasets/humansintheloop/arabic-documents-ocr-dataset?datasetId=3371421
+
+Alternatively, files can be accessed directly from this link:
+https://drive.google.com/drive/u/2/folders/1Ds_2LTmktR62QLgt5qE_NjWOVt9ejPDf
+
 ### Dependencies
 
 - Python 3
