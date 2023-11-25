@@ -70,6 +70,7 @@ pip install matplotlib opencv-python-headless editdistance pytesseract numpy sha
 ```
 
 ### Usage
+- **Generate oriented bounding boxes** Apply TCM-CLIP model on the raw images
 - **Preprocess Images**: Follow the preprocessing steps outlined in the script.
 - **Run Tesseract OCR**: Apply Tesseract OCR on the preprocessed images.
 - **Evaluate OCR Results**: Use the provided metrics to evaluate the OCR performance.
